@@ -29,10 +29,10 @@
   font-size: 1rem;
   font-weight: bold;
   color: white;
-  background-color: #40005d;
-  border: 1px solid white;
+  background-color: #00a4f6;
+  border: 2px solid #ffffff;
   padding: 0.5rem;
-  border-radius: 12px;
+  border-radius: 5px;
 }
 
 @media (min-width: 580px) {
